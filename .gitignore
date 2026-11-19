@@ -1,0 +1,21 @@
+# Python virtual environment & cache
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment variables & secrets (API keys, DB credentials)
+.env
+*.sqlite
+*.db
+
+# Large raw PDFs, processed JSON dumps, and FAISS vector indexes
+data/raw_pdfs/
+data/processed/
+data/indexes/
+docs/*.pdf
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/

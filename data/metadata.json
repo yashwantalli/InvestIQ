@@ -1,0 +1,52 @@
+{
+  "project": "InvestIQ",
+  "version": "1.0",
+  "documents": [
+    {
+      "doc_id": "sebi_fin_edu_booklet",
+      "filename": "SEBI -Financial Education Booklet.pdf",
+      "relative_path": "raw_pdfs/module_a_learning/SEBI -Financial Education Booklet.pdf",
+      "module": "module_a_learning",
+      "title": "SEBI Financial Education Booklet",
+      "publisher": "Securities and Exchange Board of India (SEBI)",
+      "category": "Investor Education & Personal Finance",
+      "total_pages": 73,
+      "source_url": "https://investor.sebi.gov.in/"
+    },
+    {
+      "doc_id": "sebi_nsfe_2020_2025",
+      "filename": "SEBI-NSFE 2020-2025.pdf",
+      "relative_path": "raw_pdfs/module_a_learning/SEBI-NSFE 2020-2025.pdf",
+      "module": "module_a_learning",
+      "title": "National Strategy for Financial Education 2020-2025",
+      "publisher": "National Centre for Financial Education (NCFE) / SEBI",
+      "category": "Financial Literacy Policy & Survey Data",
+      "total_pages": 47,
+      "source_url": "https://investor.sebi.gov.in/"
+    },
+    {
+      "doc_id": "infosys_ar_2025_26",
+      "filename": "infosys-ar-26.pdf",
+      "relative_path": "raw_pdfs/module_c_company_research/infosys-ar-26.pdf",
+      "module": "module_c_company_research",
+      "title": "Infosys Integrated Annual Report 2025-26",
+      "publisher": "Infosys Limited",
+      "ticker": "INFY",
+      "exchange": "NSE/BSE",
+      "category": "Annual Report & Financial Disclosures",
+      "total_pages": 383,
+      "source_url": "https://www.infosys.com/investors/reports-filings/annual-report.html"
+    },
+    {
+      "doc_id": "amfi_group_companies",
+      "filename": "amfi-list of group companies.pdf",
+      "relative_path": "raw_pdfs/reference_tables/amfi-list of group companies.pdf",
+      "module": "reference_tables",
+      "title": "AMFI List of Group Companies",
+      "publisher": "Association of Mutual Funds in India (AMFI)",
+      "category": "Corporate Group, CIN & ISIN Reference Table",
+      "total_pages": 44,
+      "source_url": "https://www.amfiindia.com/"
+    }
+  ]
+}
