@@ -1,0 +1,530 @@
+[
+  {
+    "id": "Q01",
+    "category": "simple_factual",
+    "question": "What is a Demat account and what is its primary role in holding securities?",
+    "expected_docs": [
+      "sebi_fin_edu_booklet"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 24
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 25
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 26
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 29
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 36
+      }
+    ],
+    "search_keywords": [
+      "Demat",
+      "depository"
+    ]
+  },
+  {
+    "id": "Q02",
+    "category": "simple_factual",
+    "question": "What are the differences between primary markets and secondary markets?",
+    "expected_docs": [
+      "sebi_fin_edu_booklet"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 24
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 26
+      }
+    ],
+    "search_keywords": [
+      "primary market",
+      "secondary market"
+    ]
+  },
+  {
+    "id": "Q03",
+    "category": "simple_factual",
+    "question": "What is the role of SEBI in protecting retail investors in the Indian securities market?",
+    "expected_docs": [
+      "sebi_fin_edu_booklet"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 2
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 3
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 24
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 25
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 26
+      }
+    ],
+    "search_keywords": [
+      "SEBI"
+    ]
+  },
+  {
+    "id": "Q04",
+    "category": "simple_factual",
+    "question": "What are the '5 Cs' strategic pillars outlined in the National Strategy for Financial Education (NSFE) 2020-2025?",
+    "expected_docs": [
+      "sebi_nsfe_2020_2025"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 7
+      },
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 24
+      }
+    ],
+    "search_keywords": [
+      "5 Cs",
+      "Content",
+      "Capacity"
+    ]
+  },
+  {
+    "id": "Q05",
+    "category": "simple_factual",
+    "question": "What is Infosys's core business model and primary service offerings as described in the Annual Report 2025-26?",
+    "expected_docs": [
+      "infosys_ar_2025_26"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 20
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 39
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 154
+      }
+    ],
+    "search_keywords": [
+      "business",
+      "digital services",
+      "consulting"
+    ]
+  },
+  {
+    "id": "Q06",
+    "category": "multi_section",
+    "question": "Explain the end-to-end process of applying for an IPO and how shares get credited and listed for trading.",
+    "expected_docs": [
+      "sebi_fin_edu_booklet"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 25
+      }
+    ],
+    "search_keywords": [
+      "IPO",
+      "allotment",
+      "listing"
+    ]
+  },
+  {
+    "id": "Q07",
+    "category": "multi_section",
+    "question": "What are the key types of mutual fund schemes, and how does a Systematic Investment Plan (SIP) work?",
+    "expected_docs": [
+      "sebi_fin_edu_booklet"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 31
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 32
+      }
+    ],
+    "search_keywords": [
+      "Mutual Fund",
+      "SIP"
+    ]
+  },
+  {
+    "id": "Q08",
+    "category": "multi_section",
+    "question": "What are the major risk factors identified by Infosys management in the FY 2025-26 Annual Report, and how does the company mitigate cybersecurity and AI-related risks?",
+    "expected_docs": [
+      "infosys_ar_2025_26"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 11
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 12
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 13
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 14
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 41
+      }
+    ],
+    "search_keywords": [
+      "Risk Management",
+      "cybersecurity"
+    ]
+  },
+  {
+    "id": "Q09",
+    "category": "multi_section",
+    "question": "Summarize Infosys's revenue performance across major geographical regions and industry verticals in FY 2025-26.",
+    "expected_docs": [
+      "infosys_ar_2025_26"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 35
+      }
+    ],
+    "search_keywords": [
+      "North America",
+      "Europe",
+      "Financial Services"
+    ]
+  },
+  {
+    "id": "Q10",
+    "category": "multi_section",
+    "question": "How does NSFE 2020-2025 plan to integrate financial education into school curricula and adult literacy programs?",
+    "expected_docs": [
+      "sebi_nsfe_2020_2025"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 4
+      },
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 7
+      },
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 8
+      },
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 14
+      },
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 18
+      }
+    ],
+    "search_keywords": [
+      "school"
+    ]
+  },
+  {
+    "id": "Q11",
+    "category": "table_based",
+    "question": "What were Infosys's consolidated revenue from operations, operating profit, and net profit in FY 2025-26 compared to FY 2024-25?",
+    "expected_docs": [
+      "infosys_ar_2025_26"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 209
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 287
+      }
+    ],
+    "search_keywords": [
+      "Revenue from operations",
+      "Profit for the year"
+    ]
+  },
+  {
+    "id": "Q12",
+    "category": "table_based",
+    "question": "What dividend per share (interim and final) did Infosys declare for FY 2025-26?",
+    "expected_docs": [
+      "infosys_ar_2025_26"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 16
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 36
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 54
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 242
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 243
+      }
+    ],
+    "search_keywords": [
+      "dividend",
+      "per equity share"
+    ]
+  },
+  {
+    "id": "Q13",
+    "category": "table_based",
+    "question": "Which group companies or sponsors are listed under SBI Mutual Fund / SBI Funds Management in the AMFI group companies document?",
+    "expected_docs": [
+      "amfi_group_companies"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 8
+      },
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 21
+      },
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 23
+      }
+    ],
+    "search_keywords": [
+      "SBI"
+    ]
+  },
+  {
+    "id": "Q14",
+    "category": "table_based",
+    "question": "List the group companies associated with HDFC Asset Management / HDFC Mutual Fund in the AMFI group companies filing.",
+    "expected_docs": [
+      "amfi_group_companies"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 1
+      },
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 8
+      },
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 16
+      },
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 19
+      }
+    ],
+    "search_keywords": [
+      "HDFC"
+    ]
+  },
+  {
+    "id": "Q15",
+    "category": "exception",
+    "question": "What precautions and exclusions should investors keep in mind regarding guaranteed returns, unregistered intermediaries, or grievance redressal timelines?",
+    "expected_docs": [
+      "sebi_fin_edu_booklet"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 3
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 21
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 22
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 37
+      },
+      {
+        "doc_id": "sebi_fin_edu_booklet",
+        "page": 39
+      }
+    ],
+    "search_keywords": [
+      "grievance"
+    ]
+  },
+  {
+    "id": "Q16",
+    "category": "exception",
+    "question": "What are the regulatory restrictions on mutual fund investments in group companies of the sponsor or AMC?",
+    "expected_docs": [
+      "amfi_group_companies"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 1
+      },
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 2
+      },
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 3
+      },
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 4
+      },
+      {
+        "doc_id": "amfi_group_companies",
+        "page": 5
+      }
+    ],
+    "search_keywords": [
+      "group"
+    ]
+  },
+  {
+    "id": "Q17",
+    "category": "cross_document",
+    "question": "How do SEBI's retail investor awareness initiatives in the Financial Education Booklet align with the national monitoring and implementation framework in NSFE 2020-2025?",
+    "expected_docs": [
+      "sebi_fin_edu_booklet",
+      "sebi_nsfe_2020_2025"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 5
+      },
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 6
+      },
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 9
+      },
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 13
+      },
+      {
+        "doc_id": "sebi_nsfe_2020_2025",
+        "page": 14
+      }
+    ],
+    "search_keywords": [
+      "financial literacy",
+      "SEBI"
+    ]
+  },
+  {
+    "id": "Q18",
+    "category": "cross_document",
+    "question": "Using SEBI's definitions of equity shares and dividends alongside Infosys's FY 2025-26 Annual Report, explain how an Infosys shareholder earns returns.",
+    "expected_docs": [
+      "sebi_fin_edu_booklet",
+      "infosys_ar_2025_26"
+    ],
+    "expected_pages": [
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 18
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 26
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 36
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 38
+      },
+      {
+        "doc_id": "infosys_ar_2025_26",
+        "page": 42
+      }
+    ],
+    "search_keywords": [
+      "dividend",
+      "shareholder"
+    ]
+  },
+  {
+    "id": "Q19",
+    "category": "unanswerable",
+    "question": "What will Infosys's exact share price and P/E ratio be on the NSE in December 2027?",
+    "expected_docs": [],
+    "expected_pages": [],
+    "search_keywords": []
+  },
+  {
+    "id": "Q20",
+    "category": "unanswerable",
+    "question": "What was Reliance Industries Limited's net debt-to-EBITDA ratio and retail segment revenue in FY 2025-26?",
+    "expected_docs": [],
+    "expected_pages": [],
+    "search_keywords": []
+  }
+]
